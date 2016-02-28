@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Webpage for showing params and form data</title>
+</head>
+<body>
+    <p>The method you use: {{ method }}</p>
+    <div>The params:
+        {% for key, value in params.items() %}
+        <p>{{ key }}: {{ value }}</p>
+        {% endfor %}
+    </div>
+    <div>The form data: 
+        {% for key, value in form_data.items() %}
+        <p>{{ key }}: {{ value }}</p>
+        {% endfor %}
+    </div>
+    <div>
+    <p>The body of the request: {{ body }}
+    </p>
+    </div>
+</body>
+</html>

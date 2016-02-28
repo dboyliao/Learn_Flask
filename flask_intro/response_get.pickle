@@ -1,0 +1,318 @@
+(dp1
+S'content_length'
+p2
+S'682'
+p3
+sS'status'
+p4
+S"'200 OK'"
+p5
+sS'__module__'
+p6
+S"'flask.wrappers'"
+p7
+sS'__enter__'
+p8
+S'<bound method Response.__enter__ of <Response 682 bytes [200 OK]>>'
+p9
+sS'stream'
+p10
+S'<werkzeug.wrappers.ResponseStream object at 0x10138afd0>'
+p11
+sS'make_conditional'
+p12
+S'<bound method Response.make_conditional of <Response 682 bytes [200 OK]>>'
+p13
+sS'status_code'
+p14
+S'200'
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of Response object at 0x10138aed0>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of Response object at 0x10138aed0>'
+p19
+sS'get_data'
+p20
+S'<bound method Response.get_data of <Response 682 bytes [200 OK]>>'
+p21
+sS'implicit_sequence_conversion'
+p22
+S'True'
+p23
+sS'freeze'
+p24
+S'<bound method Response.freeze of <Response 682 bytes [200 OK]>>'
+p25
+sS'www_authenticate'
+p26
+S"<WWWAuthenticate 'Basic '>"
+p27
+sS'content_language'
+p28
+S'HeaderSet([])'
+p29
+sS'default_status'
+p30
+S'200'
+p31
+sS'content_location'
+p32
+S'None'
+p33
+sS'__dict__'
+p34
+S'{\'_on_close\': [<bound method ClosingIterator.close of <werkzeug.wsgi.ClosingIterator object at 0x1013b8250>>], \'response\': [\'<!DOCTYPE html>\\n<html>\\n  <head>\\n    <title>Flask Intro</title>\\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\\n    <link href="static/css/bootstrap.min.css" rel="stylesheet" media="screen">\\n  </head>\\n  <body>\\n\\n    <div class="container">\\n\\n      <!-- child template -->\\n      \\n\\n<h1>Please Login</h1>\\n<br>\\n<form action="" method="post">\\n  <input type="text" placeholder="Username" name="username" value="">\\n   <input type="password" placeholder="Password" name="password" value="">\\n  <input class="btn btn-default" type="submit" value="Login">\\n\\n\\n      <br>\\n      <!-- errors -->\\n      \\n      <br>\\n      <!-- messages -->\\n      \\n    </div>\\n\\n  </body>\\n</html>\'], \'headers\': Headers([(\'Content-Type\', \'text/html; charset=utf-8\'), (\'Content-Length\', \'682\')]), \'_status_code\': 200, \'_status\': \'200 OK\', \'direct_passthrough\': False}'
+p35
+sS'close'
+p36
+S'<bound method Response.close of <Response 682 bytes [200 OK]>>'
+p37
+sS'__sizeof__'
+p38
+S'<built-in method __sizeof__ of Response object at 0x10138aed0>'
+p39
+sS'add_etag'
+p40
+S'<bound method Response.add_etag of <Response 682 bytes [200 OK]>>'
+p41
+sS'__weakref__'
+p42
+S'None'
+p43
+sS'__init__'
+p44
+S'<bound method Response.__init__ of <Response 682 bytes [200 OK]>>'
+p45
+sS'_ensure_sequence'
+p46
+S'<bound method Response._ensure_sequence of <Response 682 bytes [200 OK]>>'
+p47
+sS'autocorrect_location_header'
+p48
+g23
+sS'get_app_iter'
+p49
+S'<bound method Response.get_app_iter of <Response 682 bytes [200 OK]>>'
+p50
+sS'__setattr__'
+p51
+S"<method-wrapper '__setattr__' of Response object at 0x10138aed0>"
+p52
+sS'__reduce_ex__'
+p53
+S'<built-in method __reduce_ex__ of Response object at 0x10138aed0>'
+p54
+sS'__new__'
+p55
+S'<built-in method __new__ of type object at 0x1004713d0>'
+p56
+sS'headers'
+p57
+S"Headers([('Content-Type', 'text/html; charset=utf-8'), ('Content-Length', '682')])"
+p58
+sS'delete_cookie'
+p59
+S'<bound method Response.delete_cookie of <Response 682 bytes [200 OK]>>'
+p60
+sS'__format__'
+p61
+S'<built-in method __format__ of Response object at 0x10138aed0>'
+p62
+sS'get_etag'
+p63
+S'<bound method Response.get_etag of <Response 682 bytes [200 OK]>>'
+p64
+sS'__class__'
+p65
+S"<class 'flask.wrappers.Response'>"
+p66
+sS'response'
+p67
+S'[\'<!DOCTYPE html>\\n<html>\\n  <head>\\n    <title>Flask Intro</title>\\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\\n    <link href="static/css/bootstrap.min.css" rel="stylesheet" media="screen">\\n  </head>\\n  <body>\\n\\n    <div class="container">\\n\\n      <!-- child template -->\\n      \\n\\n<h1>Please Login</h1>\\n<br>\\n<form action="" method="post">\\n  <input type="text" placeholder="Username" name="username" value="">\\n   <input type="password" placeholder="Password" name="password" value="">\\n  <input class="btn btn-default" type="submit" value="Login">\\n\\n\\n      <br>\\n      <!-- errors -->\\n      \\n      <br>\\n      <!-- messages -->\\n      \\n    </div>\\n\\n  </body>\\n</html>\']'
+p68
+sS'set_cookie'
+p69
+S'<bound method Response.set_cookie of <Response 682 bytes [200 OK]>>'
+p70
+sS'_status_code'
+p71
+S'200'
+p72
+sS'content_range'
+p73
+S"<ContentRange ''>"
+p74
+sS'content_encoding'
+p75
+S'None'
+p76
+sS'last_modified'
+p77
+S'None'
+p78
+sS'__call__'
+p79
+S'<bound method Response.__call__ of <Response 682 bytes [200 OK]>>'
+p80
+sS'content_md5'
+p81
+S'None'
+p82
+sS'_status'
+p83
+S"'200 OK'"
+p84
+sS'automatically_set_content_length'
+p85
+g23
+sS'accept_ranges'
+p86
+S'None'
+p87
+sS'__doc__'
+p88
+S'"The response object that is used by default in Flask.  Works like the\\n    response object from Werkzeug but is set to have an HTML mimetype by\\n    default.  Quite often you don\'t have to create this object yourself because\\n    :meth:`~flask.Flask.make_response` will take care of that for you.\\n\\n    If you want to replace the response object used you can subclass this and\\n    set :attr:`~flask.Flask.response_class` to your subclass.\\n    "'
+p89
+sS'location'
+p90
+S'None'
+p91
+sS'make_sequence'
+p92
+S'<bound method Response.make_sequence of <Response 682 bytes [200 OK]>>'
+p93
+sS'__exit__'
+p94
+S'<bound method Response.__exit__ of <Response 682 bytes [200 OK]>>'
+p95
+sS'from_app'
+p96
+S"<bound method type.from_app of <class 'flask.wrappers.Response'>>"
+p97
+sS'default_mimetype'
+p98
+S"'text/html'"
+p99
+sS'_on_close'
+p100
+S'[<bound method ClosingIterator.close of <werkzeug.wsgi.ClosingIterator object at 0x1013b8250>>]'
+p101
+sS'__getattribute__'
+p102
+S"<method-wrapper '__getattribute__' of Response object at 0x10138aed0>"
+p103
+sS'expires'
+p104
+S'None'
+p105
+sS'mimetype_params'
+p106
+S"<CallbackDict {'charset': 'utf-8'}>"
+p107
+sS'__subclasshook__'
+p108
+S'<built-in method __subclasshook__ of type object at 0x7ff16b4f0280>'
+p109
+sS'retry_after'
+p110
+S'None'
+p111
+sS'content_type'
+p112
+S"'text/html; charset=utf-8'"
+p113
+sS'set_data'
+p114
+S'<bound method Response.set_data of <Response 682 bytes [200 OK]>>'
+p115
+sS'date'
+p116
+S'None'
+p117
+sS'is_sequence'
+p118
+g23
+sS'direct_passthrough'
+p119
+S'False'
+p120
+sS'data'
+p121
+S'\'<!DOCTYPE html>\\n<html>\\n  <head>\\n    <title>Flask Intro</title>\\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\\n    <link href="static/css/bootstrap.min.css" rel="stylesheet" media="screen">\\n  </head>\\n  <body>\\n\\n    <div class="container">\\n\\n      <!-- child template -->\\n      \\n\\n<h1>Please Login</h1>\\n<br>\\n<form action="" method="post">\\n  <input type="text" placeholder="Username" name="username" value="">\\n   <input type="password" placeholder="Password" name="password" value="">\\n  <input class="btn btn-default" type="submit" value="Login">\\n\\n\\n      <br>\\n      <!-- errors -->\\n      \\n      <br>\\n      <!-- messages -->\\n      \\n    </div>\\n\\n  </body>\\n</html>\''
+p122
+sS'charset'
+p123
+S"'utf-8'"
+p124
+sS'force_type'
+p125
+S"<bound method type.force_type of <class 'flask.wrappers.Response'>>"
+p126
+sS'is_streamed'
+p127
+g120
+sS'mimetype'
+p128
+S"'text/html'"
+p129
+sS'_get_mimetype_params'
+p130
+S'<bound method Response._get_mimetype_params of <Response 682 bytes [200 OK]>>'
+p131
+sS'iter_encoded'
+p132
+S'<bound method Response.iter_encoded of <Response 682 bytes [200 OK]>>'
+p133
+sS'age'
+p134
+S'None'
+p135
+sS'vary'
+p136
+S'HeaderSet([])'
+p137
+sS'cache_control'
+p138
+S"<ResponseCacheControl ''>"
+p139
+sS'set_etag'
+p140
+S'<bound method Response.set_etag of <Response 682 bytes [200 OK]>>'
+p141
+sS'__delattr__'
+p142
+S"<method-wrapper '__delattr__' of Response object at 0x10138aed0>"
+p143
+sS'get_wsgi_headers'
+p144
+S'<bound method Response.get_wsgi_headers of <Response 682 bytes [200 OK]>>'
+p145
+sS'__repr__'
+p146
+S'<bound method Response.__repr__ of <Response 682 bytes [200 OK]>>'
+p147
+sS'allow'
+p148
+S'HeaderSet([])'
+p149
+sS'__hash__'
+p150
+S"<method-wrapper '__hash__' of Response object at 0x10138aed0>"
+p151
+sS'calculate_content_length'
+p152
+S'<bound method Response.calculate_content_length of <Response 682 bytes [200 OK]>>'
+p153
+sS'call_on_close'
+p154
+S'<bound method Response.call_on_close of <Response 682 bytes [200 OK]>>'
+p155
+sS'get_wsgi_response'
+p156
+S'<bound method Response.get_wsgi_response of <Response 682 bytes [200 OK]>>'
+p157
+s.

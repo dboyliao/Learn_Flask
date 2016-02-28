@@ -1,0 +1,157 @@
+(dp1
+S'__module__'
+p2
+S"'flask.testing'"
+p3
+sS'__enter__'
+p4
+S"<bound method FlaskClient.__enter__ of <FlaskClient <Flask 'app'>>>"
+p5
+sS'set_cookie'
+p6
+S"<bound method FlaskClient.set_cookie of <FlaskClient <Flask 'app'>>>"
+p7
+sS'__str__'
+p8
+S"<method-wrapper '__str__' of FlaskClient object at 0x101529e10>"
+p9
+sS'__reduce__'
+p10
+S'<built-in method __reduce__ of FlaskClient object at 0x101529e10>'
+p11
+sS'cookie_jar'
+p12
+S'<werkzeug.test._TestCookieJar[]>'
+p13
+sS'run_wsgi_app'
+p14
+S"<bound method FlaskClient.run_wsgi_app of <FlaskClient <Flask 'app'>>>"
+p15
+sS'__dict__'
+p16
+S"{'application': <Flask 'app'>, 'allow_subdomain_redirects': False, 'cookie_jar': <werkzeug.test._TestCookieJar[]>, 'response_wrapper': <class 'flask.wrappers.Response'>}"
+p17
+sS'response_wrapper'
+p18
+S"<class 'flask.wrappers.Response'>"
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of FlaskClient object at 0x101529e10>'
+p21
+sS'__weakref__'
+p22
+S'None'
+p23
+sS'__init__'
+p24
+S"<bound method FlaskClient.__init__ of <FlaskClient <Flask 'app'>>>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of FlaskClient object at 0x101529e10>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of FlaskClient object at 0x101529e10>'
+p29
+sS'preserve_context'
+p30
+S'False'
+p31
+sS'__new__'
+p32
+S'<built-in method __new__ of type object at 0x1004713d0>'
+p33
+sS'open'
+p34
+S"<bound method FlaskClient.open of <FlaskClient <Flask 'app'>>>"
+p35
+sS'__format__'
+p36
+S'<built-in method __format__ of FlaskClient object at 0x101529e10>'
+p37
+sS'__class__'
+p38
+S"<class 'flask.testing.FlaskClient'>"
+p39
+sS'application'
+p40
+S"<Flask 'app'>"
+p41
+sS'delete_cookie'
+p42
+S"<bound method FlaskClient.delete_cookie of <FlaskClient <Flask 'app'>>>"
+p43
+sS'resolve_redirect'
+p44
+S"<bound method FlaskClient.resolve_redirect of <FlaskClient <Flask 'app'>>>"
+p45
+sS'__doc__'
+p46
+S"'Works like a regular Werkzeug test client but has some knowledge about\\n    how Flask works to defer the cleanup of the request context stack to the\\n    end of a with body when used in a with statement.  For general information\\n    about how to use this class refer to :class:`werkzeug.test.Client`.\\n\\n    Basic usage is outlined in the :ref:`testing` chapter.\\n    '"
+p47
+sS'head'
+p48
+S"<bound method FlaskClient.head of <FlaskClient <Flask 'app'>>>"
+p49
+sS'__exit__'
+p50
+S"<bound method FlaskClient.__exit__ of <FlaskClient <Flask 'app'>>>"
+p51
+sS'trace'
+p52
+S"<bound method FlaskClient.trace of <FlaskClient <Flask 'app'>>>"
+p53
+sS'get'
+p54
+S"<bound method FlaskClient.get of <FlaskClient <Flask 'app'>>>"
+p55
+sS'__getattribute__'
+p56
+S"<method-wrapper '__getattribute__' of FlaskClient object at 0x101529e10>"
+p57
+sS'__subclasshook__'
+p58
+S'<built-in method __subclasshook__ of type object at 0x7ff16b637780>'
+p59
+sS'put'
+p60
+S"<bound method FlaskClient.put of <FlaskClient <Flask 'app'>>>"
+p61
+sS'post'
+p62
+S"<bound method FlaskClient.post of <FlaskClient <Flask 'app'>>>"
+p63
+sS'session_transaction'
+p64
+S"<bound method FlaskClient.session_transaction of <FlaskClient <Flask 'app'>>>"
+p65
+sS'allow_subdomain_redirects'
+p66
+g31
+sS'patch'
+p67
+S"<bound method FlaskClient.patch of <FlaskClient <Flask 'app'>>>"
+p68
+sS'__delattr__'
+p69
+S"<method-wrapper '__delattr__' of FlaskClient object at 0x101529e10>"
+p70
+sS'__repr__'
+p71
+S"<bound method FlaskClient.__repr__ of <FlaskClient <Flask 'app'>>>"
+p72
+sS'__hash__'
+p73
+S"<method-wrapper '__hash__' of FlaskClient object at 0x101529e10>"
+p74
+sS'options'
+p75
+S"<bound method FlaskClient.options of <FlaskClient <Flask 'app'>>>"
+p76
+sS'delete'
+p77
+S"<bound method FlaskClient.delete of <FlaskClient <Flask 'app'>>>"
+p78
+s.
